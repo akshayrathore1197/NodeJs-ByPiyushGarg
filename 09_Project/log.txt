@@ -1,0 +1,4 @@
+1726984968257 : GET : /api/users
+1726984988937 : GET : /api/users/1002
+1726985011992 : POST : /api/users
+1726985058397 : GET : /api/users/1004
