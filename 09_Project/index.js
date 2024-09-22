@@ -37,7 +37,10 @@ app.get("/users", (req, res) => {
 });
 
 app.get("/api/users", (req, res) => {
-  console.log(req.myName);
+  // console.log(req.myName);
+  console.log(req.headers);
+  res.setHeader("X-MyName","Akshay Rathore")
+  
   return res.json(users);
 });
 
