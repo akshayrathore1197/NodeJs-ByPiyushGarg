@@ -8,3 +8,14 @@
 1726986977295 : GET : /api/users
 1726987019791 : GET : /api/users
 1726987107582 : GET : /api/users
+1726988108717 : GET : /api/users
+1726988114224 : POST : /api/users
+1726988406196 : POST : /api/users
+1726988415843 : POST : /api/users
+1726988419379 : POST : /api/users
+1726988519609 : GET : /api/userss
+1726988540838 : GET : /api/users/10055
+1726988575240 : GET : /api/users/10055
+1726988583923 : GET : /api/users/1005
+1726988652680 : GET : /api/users/1005
+1726988680379 : GET : /api/users/1005
