@@ -44,3 +44,5 @@
 1726994375293 : DELETE : /api/users/66efd4cfcca5a25df9c4baac
 1726994391352 : GET : /users
 1726994391400 : GET : /favicon.ico
+1727147680460 : GET : /api/users/66f22df43859ea8d92828ac4
+1727147689142 : GET : /api/users
